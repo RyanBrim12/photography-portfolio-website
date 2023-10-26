@@ -1,0 +1,31 @@
+nav {
+    text-align: end;
+}
+
+nav a.icon {
+    display: block;
+}
+
+nav div.links {
+    display: none;
+    flex-direction: column;
+    position: absolute;
+    right: 0;
+    z-index: 1;
+}
+
+nav div.links a {
+    padding: 1em;
+}
+
+main.slide-gallery section {
+    min-height: 60vh;
+}
+
+.prev, .next {
+    top: 10%;
+}
+
+ul {
+    min-height: 30vh;
+}

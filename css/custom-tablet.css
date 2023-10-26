@@ -1,0 +1,19 @@
+main.about {
+    flex-direction: column-reverse;
+}
+
+main.about figure {
+    max-width: 100%;
+}
+
+main.about figure img {
+    margin: 0;
+}
+
+nav {
+    flex-basis: 40%;
+}
+
+ul {
+    min-height: 50vh;
+}
